@@ -1,0 +1,5 @@
+{
+  "name": "GeoAlert SMS Engine",
+  "description": "A robust backend-driven dashboard for emergency SMS alerts using Firebase and Gemini. Features real-time geo-fencing, user preference matching, and AI-powered actionable message generation.",
+  "requestFramePermissions": []
+}

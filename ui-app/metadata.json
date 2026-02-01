@@ -1,0 +1,7 @@
+{
+  "name": "Crisis Response Dashboard",
+  "description": "A high-performance real-time alert monitoring dashboard with location-based switching, map synchronization, and critical incident response actions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
